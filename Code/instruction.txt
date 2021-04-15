@@ -1,0 +1,10 @@
+travel: Move to the next location
+rest: Rest and restore 20 HP
+arsenal: View all the weapons you have in your arsenal
+collection: View all the rare items you've collected this far
+info: Display your status
+return: Go back to previous map
+fight: Attack with weapon you equipped
+escape: Return back to your previous location
+quit: Quit the game. You lose all your progress ah don't say I never warn you
+ 
